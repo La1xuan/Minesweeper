@@ -25,9 +25,6 @@ description: Follow the path of my heart
 url: "https://La1xuan.github.io/"
 github_username:  La1xuan
 linkedin_username: qixuanzhong
-header_pages:
-  - projects.md
-  - language.md
 defaults:
   - scope:
       path: "_images"
